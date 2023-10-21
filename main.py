@@ -51,5 +51,5 @@ plt.title('Distribution of Unique UIDs per ColdKey')
 
 
 
-
+st.table(data)
 st.pyplot(plt)
